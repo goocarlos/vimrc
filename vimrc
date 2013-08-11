@@ -6,6 +6,8 @@ set nobackup
 set history=80
 
 syntax on
+set number
+
 set showmode
 set ruler
 set ru
